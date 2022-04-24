@@ -32,12 +32,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
     -
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40px"/>
-  </div>
-  <br>
-  <br>
-  <h1> </h1>
- <div align="center"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdiniz&layout=compact&theme=omni" display="inline" margin="0" align="center">
+    
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdiniz&layout=compact&theme=omni" display="inline" margin="0" align="center">
       <img src="https://user-images.githubusercontent.com/94693689/164995756-14ad9a61-8542-4b1f-927f-fe3655d2f70d.png" width="150px" align="center">
   </div>
-  
