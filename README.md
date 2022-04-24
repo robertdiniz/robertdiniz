@@ -1,42 +1,43 @@
-<div align="center" margin="0">
+  <div align="center">
+    <h1 border="none"> :wave: Olá pessoal</h1>
+    <p>Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.</p>
+    <img src="https://user-images.githubusercontent.com/94693689/164995992-c459bb9c-339d-48e6-bb39-10a26bd12f8e.gif" width="50px">
+  </div>  
+  
+  <br>
+  
+  <div align="center" width="100px">
+    <h2 align="center"> :seedling: Mais sobre mim </h2>
+    <p align="center">:v:Meu nome é <b>Robert Diniz<b></p>
+    <p align="center">:leaves:Tenho 19 anos:leaves:</p>
+    <p align="center">:computer::star2:Estou cursando Análise e Desenvolvimento de Sistemas 1/7 :star2:<b></p>
+  </div>
+      
+   <div align="center">
   <a target='_blank' href="https://instagram.com/robert_ferreira6"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  align="center">
   </a>
   <a target='_blank' href="https://www.linkedin.com/in/robertdinizz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center">
   </a>
 </div>
-<hr>
-
-<div align="center">
-  <h1 border="none">Olá pessoal!</h1>
-  Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.
-</div>  
-<div align="center">
-<img width="300px" src="https://camo.githubusercontent.com/7ff31bf674c5358f243c50ad2d3709af50a98c28e1f478dcc898309b973a4099/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966"> 
-</div>
-
-<div align="left" display="inline-block" width="100px">
-<h2> :seedling: Mais sobre mim: </h2>
+  <br>
+  <br>
+  <div align="center">
+      <h2>MINHAS STACKS</h2>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+    -
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+    -
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+    -
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40px"/>
   </div>
-   <p align="left"><li> Nome: Robert Diniz </li></p>
-  <p align="left"><li>Idade: 19 </li></p>
-  <p align="left"><li>Faculdade: IFRN - Análise e Desenvolvimento de Sistemas 1/7</li></p>
+  <br>
+  <br>
+  <h1> </h1>
+ <div align="center"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdiniz&layout=compact&theme=omni" display="inline" margin="0" align="center">
+      <img src="https://user-images.githubusercontent.com/94693689/164995756-14ad9a61-8542-4b1f-927f-fe3655d2f70d.png" width="150px" align="center">
+  </div>
   
-  <div align="right" display="inline">
-    <h2>Minhas stacks</h2>
-  
-</div>
-
-
-<hr>
-
-<h1> 
-
-<p align="center" margin-top="30px">
-<a href="https://github.com/robertdiniz">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robertdiniz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertdiniz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
