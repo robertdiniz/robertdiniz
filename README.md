@@ -1,10 +1,8 @@
   <div align="center">
     <h1 border="none"> :wave: Olá pessoal</h1>
     <p>Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.</p>
-    <img src="https://user-images.githubusercontent.com/94693689/164995992-c459bb9c-339d-48e6-bb39-10a26bd12f8e.gif" width="50px">
+    <img src="https://user-images.githubusercontent.com/94693689/164995992-c459bb9c-339d-48e6-bb39-10a26bd12f8e.gif" width="50px" title="Caminhando sempre...">
   </div>  
-  
-  <br>
   
   <div align="center" width="100px">
     <h2 align="center"> :seedling: Mais sobre mim </h2>
@@ -22,19 +20,28 @@
   </a>
 </div>
   <br>
-  <br>
   <div align="center">
-      <h2>MINHAS STACKS</h2>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+      <h2>:bird:MINHAS STACKS / ESTUDO </h2>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML"/>
     -
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS"/>
     -
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" title="Bootstrap"/>
     -
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" title="JavaScript"/>
+    -
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px" title="PHP"/>
+    -
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" title="MySQL"/>
+    <br>
+    <br>
+    <h2> :four_leaf_clover: QUERO ESTUDAR </h2>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" title="C#"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" title="NodeJS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50px" title="Laravel"/>
     <br>
     <br>
     <div>      
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdiniz&layout=compact&theme=omni" display="inline" margin="0" align="center">
-      <img src="https://user-images.githubusercontent.com/94693689/164995756-14ad9a61-8542-4b1f-927f-fe3655d2f70d.png" width="150px" align="center"></div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdiniz&layout=compact&theme=omni" display="inline" margin="0" align="center" title="Linguagens que mais utilizo! (GITHUB)">
+      <img src="https://user-images.githubusercontent.com/94693689/164995756-14ad9a61-8542-4b1f-927f-fe3655d2f70d.png" width="150px" align="center" title="Parece comigo :)"></div>
   </div>
