@@ -44,4 +44,5 @@
     <div>      
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdiniz&layout=compact&theme=omni" display="inline" margin="0" align="center" title="Linguagens que mais utilizo! (GITHUB)">
       <img src="https://user-images.githubusercontent.com/94693689/164995756-14ad9a61-8542-4b1f-927f-fe3655d2f70d.png" width="150px" align="center" title="Parece comigo :)"></div>
+       <img src="https://komarev.com/ghpvc/?username=robertdiniz&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
   </div>
