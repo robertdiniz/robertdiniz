@@ -2,7 +2,7 @@
   <div align="left">
     <h1 border="none"> :wave: Olá pessoal, me chamo Robert...</h1>
     <samp><p><b>Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.</b></p>
-    <p align="left">:computer::star2:Estou cursando Análise e Desenvolvimento de Sistemas 1/7 .:star2:<b></p></samp>
+    <p align="left">:computer::star2:<b>Estou cursando Análise e Desenvolvimento de Sistemas 1/7 .</b>:star2:<b></p></samp>
  </div>
  <br>
   <h1></h1>
