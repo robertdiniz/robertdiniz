@@ -2,10 +2,9 @@
   <div align="left">
     <h1 border="none"> :wave: Olá pessoal, me chamo Robert...</h1>
     <samp><p><b>Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.</b></p>
-    <p align="left">:v:Meu nome é <b>Robert Diniz...<b></p>
-    <p align="left">:leaves:Tenho 19 anos...:leaves:</p>
     <p align="left">:computer::star2:Estou cursando Análise e Desenvolvimento de Sistemas 1/7 .:star2:<b></p></samp>
- </div>  
+ </div>
+ <br>
   <h1></h1>
  <div align="left">
     <details>
