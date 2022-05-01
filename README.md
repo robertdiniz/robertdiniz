@@ -1,16 +1,12 @@
-<img src="https://user-images.githubusercontent.com/94693689/164995756-14ad9a61-8542-4b1f-927f-fe3655d2f70d.png" align="left" width="200px" align="center" title="Parece comigo :)">
   <div align="left">
     <h1 border="none"> :wave: Olá pessoal, me chamo Robert...</h1>
-    <samp><p><b>Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.</b></p>
-    <p align="left">:computer::star2:<b>Estou cursando Análise e Desenvolvimento de Sistemas 1/7 .</b>:star2:<b></p></samp>
+    <p><b>Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.</b></p>
+  <p align="left"><li><b>Me chamo Robert, e tenho 19 anos...</b><b></li></p>
+  <p align="left"><li><b>Curso Análise e Desenvolvimento de Sistemas 1/7 </b><b></li></p>
+  
  </div>
- <br>
-  <h1></h1>
+  <h1>Minhas Stacks</h1>
  <div align="left">
-    <details>
-      <summary><samp>:bird: Minhas Stacks / Estudando... </samp></summary>
-      <br>
-      <samp>
         <b> Front End <b>
           <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML"/>
@@ -24,8 +20,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px" title="PHP"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50px" title="JAVA"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" title="MySQL"/>
-      </samp>
-    </details>
  </div>
   <br>
  <div align="left">
