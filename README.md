@@ -1,5 +1,5 @@
   <div align="left">
-    <h1 border="none"> :wave: Olá pessoal, me chamo Robert...</h1>
+    <h1 border="none"> :wave: Oi...</h1>
     <p><b>Estou começando no mundo da tecnologia, buscando minhas primeiras oportunidades.</b></p>
   <p align="left"><li><b>Me chamo Robert, e tenho 19 anos...</b><b></li></p>
   <p align="left"><li><b>Curso Análise e Desenvolvimento de Sistemas 1/7 </b><b></li></p>
