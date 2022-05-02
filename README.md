@@ -1,7 +1,7 @@
 ### :wave: Olá, me chamo Robert!
 - 👨‍🎓 **Estudante de Análise e Desenvolvimento de Sistemas 1/7...**
 - :star2: **Buscando oportunidades como desenvolvedor...**
-- 📚 **Estudando Back-end, linguagens que estudo/uso JavaScript, Java e PHP...**
+- 📚 **Estudando Back-end, linguagens que estudo e/ou uso JavaScript, Java e PHP...**
 ### Conecte-se comigo:
 <div style="display: inline_block">
   <a target="_blank" href="https://www.linkedin.com/in/robertdinizz/"><img target="_blank" alt="Linkedin Robert" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
